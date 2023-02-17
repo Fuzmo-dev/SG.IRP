@@ -34,7 +34,7 @@ a  {
     background-color: rgb(88, 101, 242);
     color: ivory;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 18px;
     border-radius: 10px;
 
 }
@@ -43,7 +43,7 @@ a  {
 background-color: rgb(235, 73, 76);
     color: ivory;
     font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
     border-radius: 5px;
 }
 
@@ -73,3 +73,4 @@ ul.dropdown-menu {
 .btoast {
     background-color:rgb(25, 27, 29) ;
 }
+

@@ -29,10 +29,3 @@ window.addEventListener("scroll", reveal);
 
 
 
-var   button = document.querySelector('.js');
-console.log(button);
-var   h1 = document.querySelector('.h1');
-
-button.onclick = function (){
-  h1.innerHTML = '<img src="a_a94dc4074a66bd808a30cb369c23204e.gif"></img>';
-}
