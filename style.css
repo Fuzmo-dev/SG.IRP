@@ -162,3 +162,8 @@ border-radius: 5px;
   }
 
 
+  li::marker {
+    font-size: 1.4em;
+    color: #3c8aff;
+
+}
